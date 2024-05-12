@@ -1,27 +1,36 @@
 ## Gmini 
-This React application utilizes the **Google Gemini API**, offering access to advanced AI capabilities like text generation
 
-## Key Features:
 
-1. Built with React.js for a smooth user experience.
-2. Integrates seamlessly with the Gemini API.
-3. sidebar feature in which recent search showing
-4. in the search box if empty then there is no enter button showing when you type anything it shows that
-5. Conetext Api is used here for a better understanding
+## Overview
 
-## Tech  stack 
-1. React JS
-2. CSS
-3. JAVASCRIPT
-4. API Fetching
-5. Bootstrap
-6. HTML
+Gemini is a React application that leverages the **Google Gemini API** to access advanced AI capabilities such as text generation.
 
-## How to use the run this project
-1.  clone or download the zip file
-2.  open the terminal in the folder where you unzip that
-3.  run command - npm install
-4.  npm run dev
+## Key Features
+
+1. **React.js Integration**: Built with React.js for a smooth user experience.
+2. **Google Gemini API**: Seamlessly integrates with the Gemini API for powerful AI functionality.
+3. **Sidebar with Recent Searches**: Displays recent searches in the sidebar for easy access.
+4. **Dynamic Search Box**: The search box dynamically displays an "Enter" button when text is entered.
+5. **Context API**: Utilizes Context API for enhanced state management.
+
+## Tech Stack
+
+- React JS
+- CSS
+- JavaScript
+- API Fetching
+- Bootstrap
+- HTML
+
+## How to Run the Project
+
+1. Clone or download the project repository.
+2. Open your terminal and navigate to the project folder.
+3. Run the following command to install dependencies:
+
+   ```bash
+   npm install
+
 
 ## Project screenshot
 
